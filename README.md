@@ -1,51 +1,37 @@
-Furniture Landing Page
+# Furniture Landing Page
 
-This is a React landing page project for a furniture website. The project focuses on clean layout and modern UI, built using Tailwind CSS for styling.
+A responsive **React landing page** for a furniture website. The project focuses on clean layout and modern UI, built using **Tailwind CSS** for styling and based on a **Figma design**.
 
-Features
+## Features
+- Modern, clean design
+- Built with React
+- Styled using Tailwind CSS
+- Follows the Figma design layout
+- Reusable components for scalability
 
-Fully responsive landing page
+## Figma Design
+You can view the design mockup here:  
+[Figma Design - Furniture Website](https://www.figma.com/design/2smRBZ65dtKQRqfRavVIHR/Furniture-Website--Community-?node-id=0-1&p=f&t=qMGOWEVRmbqvxIBU-0)
 
-Modern, clean design
+## Installation
 
-Built with React
-
-Styled using Tailwind CSS
-
-Follows the design in Figma
-
-Figma Design
-
-You can view the design mockup here:
-Figma Design - Furniture Website
-
-Installation
-
-Clone the repository:
-
+1. **Clone the repository:**  
+```bash
 git clone <your-repo-link>
 
-
-Navigate to the project folder:
-
-cd furniture-landing-page
-
-
-Install dependencies:
-
+Install dependencies
 npm install
 # or
 yarn install
 
-
-Start the development server:
-
+Start the development server
 npm start
 # or
 yarn start
 
+Open the project in your browser
 
-Open http://localhost:3000 in your browser to view the project.
+Go to http://localhost:3000
 
 Technologies Used
 
@@ -53,18 +39,22 @@ React
 
 Tailwind CSS
 
-JavaScript / TypeScript (if applicable)
+JavaScript (or TypeScript if applicable)
 
 Project Structure
 src/
-├─ components/      # Reusable UI components
-├─ pages/           # Main pages
-├─ assets/          # Images, icons, etc.
-├─ App.js           # Main app component
-└─ index.js         # Entry point
+├─ components/      # Reusable UI components (e.g., Navbar, Footer, Cards)
+├─ pages/           # Main pages (Landing page)
+├─ assets/          # Images, icons, and other static assets
+├─ App.js           # Main app component with routing
+└─ index.js         # Entry point for React
 
 Notes
 
-This project focuses on UI and layout; functionality is minimal as it is a landing page.
+This project focuses on UI and layout, functionality is minimal since it is a landing page.
 
 Styling strictly follows Tailwind CSS.
+
+Components are designed to be reusable and scalable for future extensions.
+
+Can be extended with additional pages, components, or integrations if needed.
