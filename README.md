@@ -16,22 +16,26 @@ You can view the design mockup here:
 ### 1. Clone the repository
 ```bash
 git clone <your-repo-link>
+ ```  
 ### 2. Navigate to the project folder
-bash
-Copy code
+ ```  bash
 cd furniture-landing-page
+ ```
+
 ### 3. Install dependencies
-bash
-Copy code
+ ```  bash
 npm install
 # or
 yarn install
+ ```
+
 ### 4. Start the development server
-bash
-Copy code
+ ```  bash
 npm start
 # or
 yarn start
+ ```
+
 ### 5. Open the project in your browser
 Go to http://localhost:3000
 
