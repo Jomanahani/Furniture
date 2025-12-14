@@ -1,4 +1,3 @@
-import Layout from "./Components/Layout";
 import Collection from "./Sections/Collection";
 import Home from "./Sections/Home";
 import NavBar from "./Sections/NavBar";

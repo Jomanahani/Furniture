@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.571dcc48.css",
+    "main.js": "/static/js/main.f3165c3b.js",
+    "static/media/Home.png": "/static/media/Home.e0c1164927375e02880c.png",
+    "static/media/Beautify.png": "/static/media/Beautify.603017cfca01ab42497f.png",
+    "static/media/Bedroom.png": "/static/media/Bedroom.e13d221de68f3f66fc6a.png",
+    "static/media/Purchase.png": "/static/media/Purchase.bb99e6d52a396d602d5c.png",
+    "static/media/Collection2.png": "/static/media/Collection2.6be14ccb5900bad6ffce.png",
+    "static/media/Living.png": "/static/media/Living.e086c9832f718e2a9036.png",
+    "static/media/Dining.png": "/static/media/Dining.e06dbf6e397ab51c13b2.png",
+    "static/media/Collection1.png": "/static/media/Collection1.9175c385b3ce41e3c424.png",
+    "static/media/Warehouse.png": "/static/media/Warehouse.56a41ce75a86e3c71934.png",
+    "static/media/Collection3.png": "/static/media/Collection3.8eaf88e1ac3a938dd0a1.png",
+    "static/media/insta2.png": "/static/media/insta2.e88d6e3b46138b786f1b.png",
+    "static/media/insta3.png": "/static/media/insta3.23358625f41898bfbb71.png",
+    "static/media/insta4.png": "/static/media/insta4.927f0733df48ca1fd72c.png",
+    "static/media/insta1.png": "/static/media/insta1.54a1606c69cb8b9e9bf5.png",
+    "index.html": "/index.html",
+    "main.571dcc48.css.map": "/static/css/main.571dcc48.css.map",
+    "main.f3165c3b.js.map": "/static/js/main.f3165c3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.571dcc48.css",
+    "static/js/main.f3165c3b.js"
+  ]
+}
