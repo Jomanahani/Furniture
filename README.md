@@ -10,7 +10,7 @@ A responsive **React landing page** for a furniture website. The project focuses
 - Reusable components for scalability
 
 ## Live Demo
-You can see the app live here: [Furniture]([https://furniture-landpage.netlify.app/])
+You can see the app live here: [Furniture](https://furniture-landpage.netlify.app/)
 
 ## Figma Design
 You can view the design mockup here:  
